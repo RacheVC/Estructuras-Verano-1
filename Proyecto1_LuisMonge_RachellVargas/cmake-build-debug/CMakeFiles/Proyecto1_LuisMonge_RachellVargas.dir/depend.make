@@ -4,6 +4,9 @@
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.obj: ../BST.cpp
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.obj: ../BST.h
 
+CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.obj: ../Persona.cpp
+CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.obj: ../Persona.h
+
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/main.cpp.obj: ../BST.h
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/main.cpp.obj: ../main.cpp
 

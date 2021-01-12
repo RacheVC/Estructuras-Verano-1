@@ -62,10 +62,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E rm
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas"
+CMAKE_SOURCE_DIR = "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/depend.make
@@ -78,42 +78,42 @@ include CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/flags.make
 
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/main.cpp.obj: CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/flags.make
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\main.cpp.obj -c "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\main.cpp.obj -c "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\main.cpp"
 
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\main.cpp" > CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\main.cpp" > CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\main.cpp.i
 
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\main.cpp" -o CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\main.cpp" -o CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\main.cpp.s
 
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.obj: CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/flags.make
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.obj: ../BST.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\BST.cpp.obj -c "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\BST.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\BST.cpp.obj -c "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\BST.cpp"
 
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\BST.cpp" > CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\BST.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\BST.cpp" > CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\BST.cpp.i
 
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\BST.cpp" -o CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\BST.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\BST.cpp" -o CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\BST.cpp.s
 
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.obj: CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/flags.make
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.obj: ../Persona.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\Persona.cpp.obj -c "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\Persona.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\Persona.cpp.obj -c "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\Persona.cpp"
 
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\Persona.cpp" > CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\Persona.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\Persona.cpp" > CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\Persona.cpp.i
 
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\Persona.cpp" -o CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\Persona.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\Persona.cpp" -o CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\Persona.cpp.s
 
 # Object files for target Proyecto1_LuisMonge_RachellVargas
 Proyecto1_LuisMonge_RachellVargas_OBJECTS = \
@@ -131,7 +131,7 @@ Proyecto1_LuisMonge_RachellVargas.exe: CMakeFiles/Proyecto1_LuisMonge_RachellVar
 Proyecto1_LuisMonge_RachellVargas.exe: CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/linklibs.rsp
 Proyecto1_LuisMonge_RachellVargas.exe: CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/objects1.rsp
 Proyecto1_LuisMonge_RachellVargas.exe: CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Proyecto1_LuisMonge_RachellVargas.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Proyecto1_LuisMonge_RachellVargas.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -144,6 +144,6 @@ CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/clean:
 .PHONY : CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/clean
 
 CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas" "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas" "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug" "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug" "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas" "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas" "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug" "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug" "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/depend
 

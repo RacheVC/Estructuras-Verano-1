@@ -18,21 +18,11 @@ int main() {
     t.display();
     t.remove(30);
     t.display();*/
-
-    char cadena[] = {};
     fstream fe("DatosBancoUno.txt");
-
-    /* for (int i = 0; i < 14; i++)
-     {
-         cout<<cadena[i];
-     }*/
-
-//    fe >> noskipws;
-    while (!fe.eof()) {
-        fe >> cadena;
-        cout << cadena;
+    char ascii;
+    while(fe >> std::noskipws >> ascii){
+        std::cout << ascii;
     }
-    fe.close();
 
     return 0;
 }

@@ -10,7 +10,7 @@ Persona::Persona() {
     tieneHijos = "indefinido";
     estaEmbarazada = "indifinido";
     esAdultoMayor = "indefinido";
-    categoria = "indefinida"
+    categoria = "indefinida";
 }
 
 void Persona::setNombre(string &nombre) {

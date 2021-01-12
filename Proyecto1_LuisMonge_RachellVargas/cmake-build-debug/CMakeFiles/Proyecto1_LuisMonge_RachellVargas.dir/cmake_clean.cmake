@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.obj"
+  "CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.obj"
   "CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/main.cpp.obj"
   "Proyecto1_LuisMonge_RachellVargas.exe"
   "Proyecto1_LuisMonge_RachellVargas.exe.manifest"

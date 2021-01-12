@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/main.cpp" "C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/main.cpp.obj"
+  "C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/BST.cpp" "C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.obj"
+  "C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/Persona.cpp" "C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.obj"
+  "C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/main.cpp" "C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

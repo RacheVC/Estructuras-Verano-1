@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas
+# Install script for directory: C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

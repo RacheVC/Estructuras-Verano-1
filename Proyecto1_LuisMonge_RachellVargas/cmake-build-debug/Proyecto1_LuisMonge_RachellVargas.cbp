@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Proyecto1_LuisMonge_RachellVargas">
-				<Option output="C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Proyecto1_LuisMonge_RachellVargas.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug"/>
+				<Option output="C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Proyecto1_LuisMonge_RachellVargas.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto1_LuisMonge_RachellVargas"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto1_LuisMonge_RachellVargas"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Proyecto1_LuisMonge_RachellVargas/fast">
-				<Option output="C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Proyecto1_LuisMonge_RachellVargas.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug"/>
+				<Option output="C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Proyecto1_LuisMonge_RachellVargas.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,37 +55,49 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto1_LuisMonge_RachellVargas/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto1_LuisMonge_RachellVargas/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/main.cpp">
+		<Unit filename="C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/BST.cpp">
 			<Option target="Proyecto1_LuisMonge_RachellVargas"/>
 		</Unit>
-		<Unit filename="C:/Users/rache/OneDrive/Escritorio/UNA/Estructuras Verano2020/Primero proyecto/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/CMakeLists.txt">
+		<Unit filename="C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/BST.h">
+			<Option target="Proyecto1_LuisMonge_RachellVargas"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/Persona.cpp">
+			<Option target="Proyecto1_LuisMonge_RachellVargas"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/Persona.h">
+			<Option target="Proyecto1_LuisMonge_RachellVargas"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/main.cpp">
+			<Option target="Proyecto1_LuisMonge_RachellVargas"/>
+		</Unit>
+		<Unit filename="C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

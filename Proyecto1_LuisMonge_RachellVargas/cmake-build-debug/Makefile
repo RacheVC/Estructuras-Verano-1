@@ -67,10 +67,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E rm
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas"
+CMAKE_SOURCE_DIR = "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -99,9 +99,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles" "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles" "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\rache\OneDrive\Escritorio\UNA\Estructuras Verano2020\Primero proyecto\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Luis Armando\Desktop\UNA\Estructuras de Datos\Proyecto1\Estructuras-Verano-1\Proyecto1_LuisMonge_RachellVargas\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -142,6 +142,60 @@ Proyecto1_LuisMonge_RachellVargas/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\build.make CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/build
 .PHONY : Proyecto1_LuisMonge_RachellVargas/fast
 
+BST.obj: BST.cpp.obj
+
+.PHONY : BST.obj
+
+# target to build an object file
+BST.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\build.make CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.obj
+.PHONY : BST.cpp.obj
+
+BST.i: BST.cpp.i
+
+.PHONY : BST.i
+
+# target to preprocess a source file
+BST.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\build.make CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.i
+.PHONY : BST.cpp.i
+
+BST.s: BST.cpp.s
+
+.PHONY : BST.s
+
+# target to generate assembly for a file
+BST.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\build.make CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/BST.cpp.s
+.PHONY : BST.cpp.s
+
+Persona.obj: Persona.cpp.obj
+
+.PHONY : Persona.obj
+
+# target to build an object file
+Persona.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\build.make CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.obj
+.PHONY : Persona.cpp.obj
+
+Persona.i: Persona.cpp.i
+
+.PHONY : Persona.i
+
+# target to preprocess a source file
+Persona.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\build.make CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.i
+.PHONY : Persona.cpp.i
+
+Persona.s: Persona.cpp.s
+
+.PHONY : Persona.s
+
+# target to generate assembly for a file
+Persona.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1_LuisMonge_RachellVargas.dir\build.make CMakeFiles/Proyecto1_LuisMonge_RachellVargas.dir/Persona.cpp.s
+.PHONY : Persona.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -178,6 +232,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Proyecto1_LuisMonge_RachellVargas
+	@echo ... BST.obj
+	@echo ... BST.i
+	@echo ... BST.s
+	@echo ... Persona.obj
+	@echo ... Persona.i
+	@echo ... Persona.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

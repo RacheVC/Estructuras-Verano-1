@@ -3,4 +3,4 @@ project(Proyecto1_LuisMonge_RachellVargas)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Proyecto1_LuisMonge_RachellVargas main.cpp)
+add_executable(Proyecto1_LuisMonge_RachellVargas main.cpp BST.cpp BST.h Persona.cpp Persona.h)

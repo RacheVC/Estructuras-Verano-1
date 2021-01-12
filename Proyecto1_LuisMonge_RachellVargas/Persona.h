@@ -1,0 +1,15 @@
+//
+// Created by Luis Armando on 12/1/2021.
+//
+
+#ifndef PROYECTO1_LUISMONGE_RACHELLVARGAS_PERSONA_H
+#define PROYECTO1_LUISMONGE_RACHELLVARGAS_PERSONA_H
+
+
+class Persona {
+private:
+
+};
+
+
+#endif //PROYECTO1_LUISMONGE_RACHELLVARGAS_PERSONA_H

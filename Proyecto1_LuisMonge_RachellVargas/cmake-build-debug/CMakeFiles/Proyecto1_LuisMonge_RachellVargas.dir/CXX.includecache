@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/BST.h
+iostream
+-
+
+C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/main.cpp
+iostream
+-
+BST.h
+C:/Users/Luis Armando/Desktop/UNA/Estructuras de Datos/Proyecto1/Estructuras-Verano-1/Proyecto1_LuisMonge_RachellVargas/BST.h
+fstream
+-
+
